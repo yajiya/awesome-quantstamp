@@ -11,11 +11,6 @@
 * [Documentation](#documentation)
 * [Clients](#clients)
 * [Tools](#tools)
-* [User styles](#user-styles)
-* [User scripts](#user-scripts)
-* [Bots](#bots)
-* [News & magazines bots](#news--magazines-bots)
-* [Associations](#associatons)
 * [Blogs](#blogs)
 * [Librairies](#librairies)
 
@@ -50,6 +45,10 @@
 
 
 ## Tools
+
+
+
+## Associations
 
 
 
