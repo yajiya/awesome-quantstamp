@@ -30,7 +30,7 @@
 
 ## Crowdsale
 
-### Frequently Aasked Questions
+### Frequently Asked Questions
 
 * [FAQ Offical](https://goo.gl/uGubNQ)
 * [FAQ Chinese](https://goo.gl/ayn9dt) by community
