@@ -8,6 +8,9 @@
 ## Contents
 
 * [Official](#official)
+* [Crowdsale](#crowdsale)
+    *  [Frequently Asked Questions](#frequently-asked-questions)
+    *  [Proof-of-Caring](#proof-of-caring)
 * [Documentation](#documentation)
 * [Clients](#clients)
 * [Tools](#tools)
@@ -35,6 +38,10 @@
 * [FAQ French](https://goo.gl/bgBcQs) by community
 * [FAQ German](https://goo.gl/NT83XA) by community
 
+### Proof-of-Caring
+
+
+
 ## Documentation
 
 * [Whitepaper Offical](https://docsend.com/view/shcsmhe) - Offical
@@ -45,10 +52,6 @@
 
 
 ## Tools
-
-
-
-## Associations
 
 
 
