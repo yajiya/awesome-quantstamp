@@ -40,7 +40,7 @@
 
 ### Proof-of-Caring
 
-
+* [Awesome PoC](https://github.com/yajiya/awesome-quantstamp/blob/master/proof-of-caring.md)
 
 ## Documentation
 
